@@ -6,5 +6,5 @@
 
 
 ![Image](./cute_animal_ji-xuan_site.jpg  )
-
-
+<br/><br/><br/>
+[-博客页面开发语言Markdown简介-](./markdown_instruction.md)
