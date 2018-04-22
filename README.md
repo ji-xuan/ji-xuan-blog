@@ -7,4 +7,4 @@
 
 ![Image](./BingWallpaper-2018-04-21.jpg  )
 <br/><br/><br/>
-[-博客页面开发语言Markdown简介-](./markdown_instruction.md)
+[-我的博客：二零一八年四月廿二日（戊戌年丙辰月甲申日）-](./2018-04-22-blog.md)
